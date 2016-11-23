@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">VinayCCAvenueMobile</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="selectAction">
+        <item>Resend OTP</item>
+        <item>Enter OTP Manually</item>
+    </string-array>
+    <string name="title_activity_initial">CCAvenueMobile</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="pay_button">Pay</string>
+    <string name="merchant_id">Merchant Id</string>
+    <string name="currency">Currency</string>
+    <string name="amount">Amount</string>
+    <string name="redirect_url">Redirect Url</string>
+    <string name="cancel_url">Cancel Url</string>
+    <string name="rsa_url">RSA Key Url</string>
+    <string name="access_code">Access Code</string>
+    <string name="title_activity_status">CCAvenueMobile</string>
+
+</resources>
